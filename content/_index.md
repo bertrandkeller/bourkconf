@@ -4,7 +4,7 @@ subtitle: |-
   Rencontres professionnelles du web solidaire
 
   (Novembre 2024, peut-être)
-seo_title:
+seo_title: La BourkConf - Discutons Stratégie pour la Transformation ?
 
 
 feature_image_alt: Rencontres professionnelles du web solidaire à Bourg-en-Bresse
