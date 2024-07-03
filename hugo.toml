@@ -6,6 +6,8 @@ removePathAccents = true
 title = 'BourkConf'
 theme = 'pego'
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [languages]
   [languages.fr]
