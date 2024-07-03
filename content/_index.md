@@ -6,6 +6,8 @@ subtitle: |-
   (Novembre 2024, peut-être)
 seo_title:
 
+
+feature_image_alt: Rencontres professionnelles du web solidaire à Bourg-en-Bresse
 outputs:
   - html
   - pagejs

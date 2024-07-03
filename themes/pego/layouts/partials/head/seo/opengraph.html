@@ -28,31 +28,55 @@
   {{ end -}}
 {{ end -}}
 
+{{- $font   := resources.Get "twittercard/Roboto-Black.ttf" -}}
+{{- $image  := cond (not ($.Resources.Get (printf "images/%s" .Params.image))) (resources.Get "twittercard/twittercard.png") ($.Resources.Get (printf "images/%s" .Params.image)) -}}
+{{ with $image }}{{ $image = $image.Resize "3800x" }}{{ end }}
+{{- $opts := dict
+    "color" "#ffffff"
+    "font" $font
+    "linespacing" 8
+    "size" 350
+    "x" 200
+    "y" 190
+}}
+{{- $text := cond (not $.Params.feature_image_alt) .Title (string ($.Params.feature_image_alt | markdownify)) }}
+{{- $filter := images.Text $text $opts }}
+{{- with $image | images.Filter $filter }}
+  <meta property="og:image" content="{{ .Permalink }}" />
+{{ end -}}
+
+
 {{ $images := $.Resources.ByType "image" -}}
 {{ $feature := $images.GetMatch "*feature*" -}}
 {{ $feature_param := $.Params.feature_image  }}
-{{ $feature_frontmatter := $images.GetMatch $feature_param }}
+{{ $feature_frontmatter  := $images.GetMatch $feature_param }}
+{{ $feature_frontmatter2 := resources.GetMatch $.Params.feature_image }}
 {{ if $feature_frontmatter -}}
   <meta property="og:image" content="{{ $feature_frontmatter.Permalink }}"/>
   {{ with $.Params.feature_image_alt }}
     <meta property="og:image:alt" content="{{ . }}" />
   {{ end }}
-{{ else if $feature -}}
+{{- else if $feature_frontmatter2 -}}
+  <meta property="og:image" content="{{ $feature_frontmatter2.Permalink }}"/>
+  {{- with $.Params.feature_image_alt }}
+  <meta property="og:image:alt" content="{{ . }}" />
+  {{- end -}}
+{{- else if $feature -}}
   <meta property="og:image" content="{{ $feature.Permalink }}"/>
-  {{ with $.Params.feature_image_alt }}
-    <meta property="og:image:alt" content="{{ . }}" />
-  {{ end }}
-{{ else if $.Params.images }}
+  {{- with $.Params.feature_image_alt -}}
+  <meta property="og:image:alt" content="{{ . }}" />
+  {{- end -}}
+{{- else if $.Params.images }}
   <meta name="og:image" content="{{ index $.Params.images 0 | absURL }}"/>
-{{ else if $.Site.Params.images }}
+{{- else if $.Site.Params.images }}
   <meta name="og:image" content="{{ index $.Site.Params.images 0 | absURL }}"/>
 {{ end }}
 
-{{ with .Params.audio -}}
+{{- with .Params.audio -}}
   <meta property="og:audio" content="{{ . | absURL }}">
 {{ end -}}
 
-{{ with .Params.videos -}}
+{{- with .Params.videos -}}
   {{ range . -}}
     <meta property="og:video" content="{{ . | absURL }}">
   {{ end -}}
@@ -62,8 +86,8 @@
 {{- $permalink := .Permalink }}
 {{- $siteSeries := .Site.Taxonomies.series }}
 {{/*  Only add property if taxonomy is enabled  */}}
-{{ if $siteSeries }}
-  {{ with .Params.series }}{{- range $name := . }}
+{{- if $siteSeries }}
+  {{- with .Params.series }}{{- range $name := . }}
     {{- $series := index $siteSeries ($name | urlize) }}
     {{- range $page := first 6 $series.Pages }}
       {{- if ne $page.Permalink $permalink }}<meta property="og:see_also" content="{{ $page.Permalink }}" />{{ end }}
