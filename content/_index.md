@@ -26,13 +26,13 @@ disableKinds:
 
 **Il nous manque** : des sponsors pour la nourriture et inviter des conférenciers : [Accéder au budget](#quel-budget-).
 
-### Déjà atteind !
+### Déjà atteins !
 
 On sait où se tiendra la conférence ([La Maison de la Culture et de la Citoyenneté à Bourg-en-Bresse](https://www.aglca.asso.fr/La-Maison-de-la-Culture-et-de-la-Citoyennete)). On sait à peu près quand (Fin 2024, ou début 2025).
 
-L'AGLCA qui anime les locaux de la Maison de la Culture et de la Citoyenneté à Bourg-en-Bresse, ainsi que le réseaux de l'Économie Sociale et Solidaire sur le territoire est partenaire.
+L'AGLCA est partenaire. Elle anime les locaux de la Maison de la Culture et de la Citoyenneté à Bourg-en-Bresse, ainsi que le réseau de l'Économie Sociale et Solidaire sur le territoire .
 
-Les professionnels ont été contacté et ont confirmés leur grands intérêt : [Accéder à la liste des partenaires](#qui-est-partant-).
+Les professionnels ont été contacté et ont confirmé leur grand intérêt : [Accéder à la liste des partenaires](#qui-est-partant-).
 
 
 ## Objectifs ?
