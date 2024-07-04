@@ -64,7 +64,7 @@ Ils sont en demande de temps de réflexion trans-domaines, trans-disciplines… 
 
  * **Opquast** :: Formation et certification des professionnels pour rendre le web meilleur
  * **Empreinte Digitale** :: Entreprise coopérative, accompagne sur les stratégies de numérique responsable
- * **Tanaguru** :: Outils dédiés à un web de qualité et à l'accessibilité numérique
+ * **Tanaguru** :: Outils dédiés à un web de qualité et à l’accessibilité numérique
  * **Ideance** :: Société d'expertise en accessibilité numérique
  * **Boavizta** :: Évaluer, piloter et réduire l'impact environnemental de leur numérique
  * **Association GreenIT** :: Pour une société où le numérique est utilisé de façon durable !
