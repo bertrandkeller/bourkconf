@@ -3,7 +3,7 @@ title: Stratégie pour la Transformation
 subtitle: |-
   Rencontres professionnelles du web solidaire
 
-  (Novembre 2024, peut-être)
+  (Février 2025, peut-être)
 seo_title: La BourkConf - Discutons Stratégie pour la Transformation ?
 
 
