@@ -32,7 +32,7 @@ On sait où se tiendra la conférence ([La Maison de la Culture et de la Citoyen
 
 L'AGLCA est partenaire. Elle anime les locaux de la Maison de la Culture et de la Citoyenneté à Bourg-en-Bresse, ainsi que le réseau de l'Économie Sociale et Solidaire sur le territoire .
 
-Les professionnels ont été contacté et ont confirmé leur grand intérêt : [Accéder à la liste des partenaires](#qui-est-partant-).
+Les professionnels ont été contactés et ont confirmé leur grand intérêt : [Accéder à la liste des partenaires](#qui-est-partant-).
 
 
 ## Objectifs ?
