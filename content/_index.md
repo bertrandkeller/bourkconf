@@ -127,7 +127,7 @@ Par respect pour les intervenants (et les organisateurs bénévoles), on cherche
 
 ### Recettes
 
-Cher sponsors ont compte sur vous. L'argent n'est pas tant le nerf de la guerre. Mais un fort soutien permettra de faire plus long ou de reproduire régulièrement l'événement.
+Chers sponsors, on compte sur vous. L'argent n'est pas tant le nerf de la guerre. Mais un fort soutien permettra d'oganiser sur un temps plus long ou de reproduire régulièrement l'événement.
 
 
 <table>
