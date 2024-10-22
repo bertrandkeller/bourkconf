@@ -22,7 +22,7 @@ disableKinds:
 
 ## On parlerait de quoi ?
 
-Quelques sujets descendants, mais majoritairement des ateliers de travail sur des sujets de fonds. Les sujets ne sont pas fixes, les intervenants développent un sujet de travail en rapport avec le besoin identifié d’un organisme.
+Quelques sujets descendants, mais majoritairement des ateliers de travail sur des sujets de fond. Les sujets ne sont pas fixes, les intervenants développent un sujet de travail de leur choix, en rapport avec le besoin identifié d’un organisme. On discute, on échange.
 
   1. **Qualité web**, comment développer la compétence sur le territoire ?
   2. **Design Systémique**, quelles sont les limites du territoire de l'Ain ?
@@ -36,7 +36,7 @@ Quelques sujets descendants, mais majoritairement des ateliers de travail sur de
   10. **iOT (objets connectés)**, ils sont où, ils font quoi ?
   11. **Intelligence Artificielle**, on en parle en ce moment, on fixe comment des limites ?
 
-Le public est actif, mais avant tout spectateur de la démarche de travail pour comprendre la complexité des sujets.
+Le public est spectateur de la démarche de travail afin de comprendre la complexité des sujets ; il est actif pour avoir les réponses qu’il se pose.
 
 ## Comment ça avance ?
 
@@ -48,7 +48,7 @@ Le public est actif, mais avant tout spectateur de la démarche de travail pour 
 
 3/ On attend un retour d’une réunion interne de la [CCI](https://www.ain.cci.fr/) (Chambre de commerce et d'industrie de l’Ain) pour un partenariat. On a besoin de la CCI pour nous aider à faire participer les acteurs économiques locaux, potentiellement des responsables RSE.
 
-4/ On a discuté avec l‘association [EGEE](https://www.egee.asso.fr/2024/10/22/egee-et-obligation-des-plans-communaux-de-sauvegarde-pour-les-communes/) sur les questions de Plans Communaux de Sauvegarde (PCS). Numérique et Urgence sur le territoire, un sujet sensible.
+4/ On a discuté avec l’association [EGEE](https://www.egee.asso.fr/2024/10/22/egee-et-obligation-des-plans-communaux-de-sauvegarde-pour-les-communes/) sur les questions de Plans Communaux de Sauvegarde (PCS). Numérique et Urgence sur le territoire, un sujet sensible.
 
 ### Déjà atteins !
 
