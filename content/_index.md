@@ -20,6 +20,24 @@ disableKinds:
 ---
 
 
+## On parlerait de quoi ?
+
+Quelques sujets descendants, mais majoritairement des ateliers de travail sur des sujets de fonds. Les sujets ne sont pas fixes, les intervenants développent un sujet de travail en rapport avec le besoin identifié d’un organisme.
+
+  1. **Qualité web**, comment développer la compétence sur le territoire ?
+  2. **Design Systémique**, quelles sont les limites du territoire de l'Ain ?
+  3. **Transformation**, je rédige mon premier plan d’action ?
+  4. **Référent**, qu’est-ce qui marche ? Qui marche mais dans quelle situation ?
+  4. **Contrainte légale**, je rédige mes schémas pluriannuel Accessibilité Numérique et Numérique Responsable ?
+  5. **Numérique & Urgence**, en cas de catastrophes... le système il est résilient ? Mais résilient comment ?
+  6. **Formation**, identifier les personnes moteurs,... je veux avancer, qui former ? Et comment ?
+  7. **Conseil**, quelles expertises locales et quels experts nationaux pour m’aider ?
+  9. **Impact Numérique**, équipement, déchets, prospective 2050 sur le territoire, quels indicateurs ? État des lieux ?
+  10. **iOT (objets connectés)**, ils sont où, ils font quoi ?
+  11. **Intelligence Artificielle**, on en parle en ce moment, on fixe comment des limites ?
+
+Le public est actif, mais avant tout spectateur de la démarche de travail pour comprendre la complexité des sujets.
+
 ## Comment ça avance ?
 
 ### À atteindre !
@@ -28,7 +46,7 @@ disableKinds:
 
 2/. L’[ADEA](https://www.adea-formation.com/) est un acteur local de la médiation numérique en région AURA. Nous espérons avoir leur regard sur les compétences numériques à développer pour la réussite des stratégies de transformation numérique ; avoir un retour sur l'écriture de la feuille de route départementale du numérique. Rencontre le 22 novembre sur place.
 
-3/ On attend un retour d’une réunion interne de la CCI (Chambre de commerce et d'industrie de l’Ain) pour un partenariat. On a besoin de la CCI pour nous aider à faire participer les acteurs économiques locaux, potentiellement des responsables RSE.
+3/ On attend un retour d’une réunion interne de la [CCI](https://www.ain.cci.fr/) (Chambre de commerce et d'industrie de l’Ain) pour un partenariat. On a besoin de la CCI pour nous aider à faire participer les acteurs économiques locaux, potentiellement des responsables RSE.
 
 4/ On a discuté avec l‘association [EGEE](https://www.egee.asso.fr/2024/10/22/egee-et-obligation-des-plans-communaux-de-sauvegarde-pour-les-communes/) sur les questions de Plans Communaux de Sauvegarde (PCS). Numérique et Urgence sur le territoire, un sujet sensible.
 
@@ -66,20 +84,6 @@ Mettre en immersion des responsables de collectivités dans un univers de réfle
 2/ Les décideurs n'ont pas d’espace pour appréhender/comprendre le sujet complexe de la transformation numérique. Faire le lien entre **numérique/économie**, **numérique/social**, **numérique/environnement**, **numérique/sécurité**…
 
 3/ Lancer une réflexion territoire.
-
-## Sujets potentiels
-
-  1. **Qualité web**, comment développer la compétence sur le territoire ?
-  2. **Design Systémique**, quelles sont les limites du territoire de l'Ain ?
-  3. **Transformation**, je rédige mon premier plan d’action ?
-  4. **Référent**, qu’est-ce qui marche ? Qui marche mais dans quelle situation ?
-  4. **Contrainte légale**, je rédige mes schémas pluriannuel Accessibilité Numérique et Numérique Responsable ?
-  5. **Numérique & Urgence**, en cas de catastrophes... le système il est résilient ? Mais résilient comment ?
-  6. **Formation**, identifier les personnes moteurs,... je veux avancer, qui former ? Et comment ?
-  7. **Conseil**, quelles expertises locales et quels experts nationaux pour m’aider ?
-  9. **Impact Numérique**, équipement, déchets, prospective 2050 sur le territoire, quels indicateurs ? État des lieux ?
-  10. **iOT (objets connectés)**, ils sont où, ils font quoi ?
-  11. **Intelligence Artificielle**, on en parle en ce moment, on fixe comment des limites ?
 
 ## Qui est partant ?
 
